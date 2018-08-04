@@ -1,4 +1,10 @@
-npm-debug.log*
-node_modules/
-node/
-.idea/
+/.env
+/node_modules/
+DS_Store
+npm-debug.log
+build
+jest
+*.env
+codeship.aes
+deployment.env
+jest_*/
